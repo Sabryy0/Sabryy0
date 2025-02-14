@@ -1,26 +1,37 @@
-<h1 align="center">Hello I'm Abdelrahman Sabry</h1>
-<h3 align="center">Junior UX/UI Designer</h3>
+<h1 align="center">Hello!, I'm Abdelrahman Sabry</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabryy0&label=Profile%20views&color=0e75b6&style=flat" alt="sabryy0" /> </p>
+<h2 align="center">Junior UX/UI Designer | Graphic Designer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabryy0" alt="sabryy0" /></a> </p>
+  <p align="center"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Abdelrahman+Sabry">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
+  </p>
 
-- 📫 How to reach me **abdelrahmann.sabry@gmail.com**
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Sabryy0&color=4010B0" height="30"/>
+  </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bVkCo_oufHfCN9X0x_5eBxHlzeftkCz9/view?usp=drive_link](https://drive.google.com/file/d/1bVkCo_oufHfCN9X0x_5eBxHlzeftkCz9/view?usp=drive_link)
+  <p align="left"> 
+    <a href="https://www.linkedin.com/in/abdelrahman-sabry001">
+      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+ </p>
+       <p align="left"> 
+    <a href="https://www.behance.net/Sabryy">
+      <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)" height="40"/>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrahman-sabry001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-sabry001" height="30" width="40" /></a>
-<a href="https://www.behance.net/sabryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sabryy" height="30" width="40" /></a>
-</p>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=figma,ps,html,css,cpp,perline=11"/>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabryy0&show_icons=true&locale=en&layout=compact" alt="sabryy0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabryy0&show_icons=true&locale=en" alt="sabryy0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabryy0&" alt="sabryy0" /></p>
-
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=Sabryy0&theme=onestar&row=1&column=7"/>
+  </p>
+  
+  <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabryy0&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <a/> <!-- Snake -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
