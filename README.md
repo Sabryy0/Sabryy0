@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Abdelrahman Sabry</h1>
 
-<h2 align="center">Junior UX/UI Designer | Graphic Designer
+<h2 align="center">Junior UX/UI Designer | Front-End Developer
 
   <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=Abdelrahman+Sabry">
